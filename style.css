@@ -85,7 +85,7 @@ header {
 }
 
 .cta {
-    width: 35%;
+    width: 36%;
     float: left;
     height: 100%;
     text-align: right;
@@ -216,14 +216,14 @@ hr {
 
 .personal-block {
     width: 1150px;
-    height: 500px;
+    height: 570px;
     margin: auto;
 }
 
 #montagna {
     width: 45%;
     float: left;
-    margin: 5% 0;
+    margin: 5% 0 0 0;
 }
 
 .text-right {
@@ -244,4 +244,36 @@ h2 {
 .text-right a {
     color: #98c8f8;
     font-size: 14px;
+}
+
+.grey-section2{
+    background-color: #f9f9f9;
+
+}
+
+.textbar {
+    height: 110px;
+    width: 1150px;
+    margin: auto;
+    padding-top: 41px;
+}
+
+.text1r {
+    float: left;
+}
+
+.test2l {
+    float: right;
+}
+
+#sono {
+    display: inline-block;
+    color: #b2b2b2;
+    padding-right: 35px;
+}
+
+#seleziona {
+    display: inline-block;
+    color: grey;
+    padding-right: 150px;
 }
