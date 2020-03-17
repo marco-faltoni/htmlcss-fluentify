@@ -276,4 +276,6 @@ h2 {
     display: inline-block;
     color: grey;
     padding-right: 150px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid rgba(151,151,151,.3);
 }
