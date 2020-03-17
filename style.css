@@ -127,3 +127,80 @@ header {
     border-color: #7fb802;
     padding: 12px 18px;
 }
+
+.grey-section{
+    background-color: #f9f9f9;
+    margin: auto;
+    padding: 40px 20px 40px 20px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 300;
+    color: #999;
+}
+
+.central-images {
+    width: 1150px;
+    margin: auto;
+}
+
+#main2 {
+    color: #7fb802;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.row1 {
+    float: left;
+    width: 33%;
+}
+
+.row2 {
+    float: left;
+    width: 33%;
+}
+
+.row3 {
+    float: left;
+    width: 33%;
+}
+
+h6 {
+    min-height: 80px;
+}
+
+hr {
+    width: 32px;
+    color: #f9f9f9;
+    margin: 0 45% 5% 45%;
+    opacity: 0.3;
+}
+
+.text-block {
+    text-align: center;
+}
+
+#omino {
+    height: 150px;
+    margin: 30px 0px 60px 120px;
+}
+
+#computer {
+    height: 150px;
+    margin: 20px 0px 71px 90px;
+}
+
+#doc {
+    height: 150px;
+    margin: 30px 0px 61px 86px;
+}
