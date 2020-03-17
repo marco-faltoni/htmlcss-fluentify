@@ -163,16 +163,19 @@ p {
 .row1 {
     float: left;
     width: 33%;
+    padding: 2%;
 }
 
 .row2 {
     float: left;
     width: 33%;
+    padding: 2%;
 }
 
 .row3 {
     float: left;
     width: 33%;
+    padding: 2%;
 }
 
 h6 {
@@ -191,16 +194,16 @@ hr {
 }
 
 #omino {
-    height: 150px;
+    height: 130px;
     margin: 30px 0px 60px 120px;
 }
 
 #computer {
-    height: 150px;
-    margin: 20px 0px 71px 90px;
+    height: 130px;
+    margin: 30px 0px 60px 100px;
 }
 
 #doc {
-    height: 150px;
+    height: 130px;
     margin: 30px 0px 61px 86px;
 }
