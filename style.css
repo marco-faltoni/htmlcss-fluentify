@@ -149,6 +149,7 @@ p {
 
 .central-images {
     width: 1150px;
+    height: 520px;
     margin: auto;
 }
 
@@ -206,4 +207,41 @@ hr {
 #doc {
     height: 130px;
     margin: 30px 0px 61px 86px;
+}
+
+#Linea {
+    width: 98%;
+    margin: auto;
+}
+
+.personal-block {
+    width: 1150px;
+    height: 500px;
+    margin: auto;
+}
+
+#montagna {
+    width: 45%;
+    float: left;
+    margin: 5% 0;
+}
+
+.text-right {
+    width: 30%;
+    float: right;
+    margin: 15% 2.5% 10% 0%;
+}
+
+h2 {
+    line-height: 2;
+    margin-bottom: 5px;
+}
+
+.text-right p {
+    margin-bottom:10px;
+}
+
+.text-right a {
+    color: #98c8f8;
+    font-size: 14px;
 }
